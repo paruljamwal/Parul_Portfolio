@@ -3,7 +3,7 @@ import IMG1 from "../../assets/Best.jpg";
 import IMG2 from "../../assets/freshly.jpg";
 import IMG3 from "../../assets/Zappos.jpg";
 import IMG4 from '../../assets/Lifestyle.jpg'
-
+import final from '../../assets/final.png';
 var data=[
   {
     id:1,
@@ -14,25 +14,34 @@ var data=[
   },
   {
     id:2,
+    image:final,
+    title:'OverStock is a American product based organisation where you can buy home decor, furniture etc.',
+    github:'https://github.com/paruljamwal/OverStock.git',
+    demo:'https://precious-biscotti-7d48df.netlify.app'
+  },
+  {
+    id:3,
     image:IMG1,
     title:'BEST BUY is a Electronic products based web.',
     github:'https://github.com/paruljamwal/Zappos-Clone.git',
     demo:'https://merry-kitten-8e2680.netlify.app/'
   },
+
   {
-    id:3,
+    id:4,
     image:IMG2,
     title:'FRESHLY is an organization who delivers food in different areas.',
     github:'https://github.com/paruljamwal/Fressely.git',
     demo:'https://sid283.github.io/Ecommerce_freshly_clone/landing_page/homepage.html'
   },
   {
-    id:4,
+    id:5,
     image:IMG3,
     title:'Ecommerce web. provides clothes and Major know for Footwear.',
     github:'https://github.com/paruljamwal/Zappos.git',
     demo:'https://zappos-ddofkinha-paruljamwal.vercel.app'
   }
+ 
 ]
 
 export const Portfolio = () => {

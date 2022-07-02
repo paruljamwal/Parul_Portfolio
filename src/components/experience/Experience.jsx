@@ -44,10 +44,10 @@ function Experience() {
             <h4>EXPRESS</h4>
           </article>
            
-          <article className="experience__details">
+          {/* <article className="experience__details">
         <img src={Aws} alt="" />
             <h4>AWS</h4>
-          </article>
+          </article> */}
 
           <article className="experience__details">
         <img src={git} alt="" />
@@ -64,10 +64,10 @@ function Experience() {
             <h4>NODE JS</h4>
           </article>
            
-          <article className="experience__details">
+          {/* <article className="experience__details">
            <img src={figma} alt="" />
             <h4>FIGMA</h4>
-          </article>
+          </article> */}
 
           <article className="experience__details">
            <img src={mui} alt="" />
