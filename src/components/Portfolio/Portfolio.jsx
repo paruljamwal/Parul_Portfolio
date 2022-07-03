@@ -17,7 +17,7 @@ var data=[
     image:final,
     title:'OverStock is a American product based organisation where you can buy home decor, furniture etc.',
     github:'https://github.com/paruljamwal/OverStock.git',
-    demo:'https://precious-biscotti-7d48df.netlify.app'
+    demo:'https://whimsical-hamster-e7693c.netlify.app'
   },
   {
     id:3,
