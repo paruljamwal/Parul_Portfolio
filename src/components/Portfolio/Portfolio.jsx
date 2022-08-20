@@ -13,19 +13,20 @@ var data=[
     github:'https://github.com/paruljamwal/viable-argument-168.git',
     demo:'https://ever-lmnstkh00-paruljamwal.vercel.app'
   },
+
   {
     id:2,
-    image:IMG4,
-    title:'LifeStyleStores is a Product based website',
-    github:'https://github.com/paruljamwal/LifeStyleStores.git',
-    demo:'https://lifestyle-final-main.vercel.app/'
-  },
-  {
-    id:3,
     image:final,
     title:'OverStock is a American product based organisation where you can buy home decor, furniture etc.',
     github:'https://github.com/paruljamwal/OverStock.git',
     demo:'https://over-bz1zdp857-paruljamwal.vercel.app'
+  },
+  {
+    id:3,
+    image:IMG4,
+    title:'LifeStyleStores is a Product based website',
+    github:'https://github.com/paruljamwal/LifeStyleStores.git',
+    demo:'https://lifestyle-final-main.vercel.app/'
   },
   {
     id:4,
