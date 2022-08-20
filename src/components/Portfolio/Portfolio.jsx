@@ -11,7 +11,7 @@ var data=[
     image:final1,
     title:'Everhour is a time tracker website that helps small and mid-size companies  to  organize their working hours.',
     github:'https://github.com/paruljamwal/viable-argument-168.git',
-    demo:'https://everhour-clone.netlify.app/'
+    demo:'https://ever-lmnstkh00-paruljamwal.vercel.app'
   },
   {
     id:2,
@@ -25,7 +25,7 @@ var data=[
     image:final,
     title:'OverStock is a American product based organisation where you can buy home decor, furniture etc.',
     github:'https://github.com/paruljamwal/OverStock.git',
-    demo:'https://whimsical-hamster-e7693c.netlify.app'
+    demo:'https://over-bz1zdp857-paruljamwal.vercel.app'
   },
   {
     id:4,

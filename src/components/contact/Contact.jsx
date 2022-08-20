@@ -44,11 +44,7 @@ export const Contact = () => {
     </article>
 
 
-    <article className="contact__option" >
-    <SiWhatsapp className="contact__options-icon"></SiWhatsapp>
-     <h4>Whatsapp</h4>
-     <a href="https://api.whatsapp.com/send?phone=+7018996584" target="_blank">Send a message</a>
-    </article>
+  
   </div>
 
   <form action="" ref={form} onSubmit={sendEmail}>

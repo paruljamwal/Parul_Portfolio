@@ -15,9 +15,7 @@ function Footer() {
 
    </ul>
    <div className="footer__socials">
-     <a href="https://www.facebook.com/profile.php?id=100025093908343"><BsFacebook></BsFacebook></a>
-     <a href="https://www.instagram.com/parul_jamwal_0000/"><FiInstagram></FiInstagram></a>
-     <a href="https://twitter.com/1802_parul"><BsTwitter></BsTwitter></a>
+   
    </div>
 
    <div className="footer__copyright">
