@@ -19,7 +19,7 @@ function Footer() {
    </div>
 
    <div className="footer__copyright">
-     <small>Love coding❤.</small>
+     <small>♥ Parul Jamwal</small>
    </div>
     </footer>
   )
