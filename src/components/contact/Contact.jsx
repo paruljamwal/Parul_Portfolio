@@ -37,11 +37,11 @@ export const Contact = () => {
     </article>
 
 
-    <article className="contact__option" >
+    {/* <article className="contact__option" >
      <SiMessenger className="contact__options-icon"></SiMessenger>
      <h4>Messanger</h4>
      <a href="https://www.facebook.com/profile.php?id=100025093908343" target="_blank">Send a message</a>
-    </article>
+    </article> */}
 
 
   
