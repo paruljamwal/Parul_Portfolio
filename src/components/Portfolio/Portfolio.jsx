@@ -55,7 +55,7 @@ var data=[
   {
     id:7,
     image:IMG5,
-    title:'Snow glove image.',
+    title:'Snow glove: add any image and gift to your loved one.',
     github:'https://github.com/paruljamwal/snow_globe',
     demo:'https://famous-mousse-3232bc.netlify.app/'
   }
