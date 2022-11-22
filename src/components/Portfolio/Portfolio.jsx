@@ -2,7 +2,8 @@ import "./portfolio.css";
 import IMG1 from "../../assets/Best.jpg";
 import IMG2 from "../../assets/freshly.jpg";
 import IMG3 from "../../assets/Zappos.jpg";
-import IMG4 from '../../assets/Lifestyle.jpg'
+import IMG4 from '../../assets/Lifestyle.jpg';
+import IMG5 from '../../assets/snow.png'
 import final from '../../assets/final.png';
 import final1 from '../../assets/final1.png';
 var data=[
@@ -32,8 +33,8 @@ var data=[
     id:4,
     image:IMG1,
     title:'BEST BUY is a Electronic products based web.',
-    github:'https://github.com/paruljamwal/Zappos-Clone.git',
-    demo:'https://merry-kitten-8e2680.netlify.app/'
+    github:'https://github.com/paruljamwal/BestBuy_Clone',
+    demo:'https://roaring-cassata-209e07.netlify.app/'
   },
 
   {
@@ -49,6 +50,14 @@ var data=[
     title:'Ecommerce web. provides clothes and Major know for Footwear.',
     github:'https://github.com/paruljamwal/Zappos.git',
     demo:'https://zappos-ddofkinha-paruljamwal.vercel.app'
+  }
+  ,
+  {
+    id:7,
+    image:IMG5,
+    title:'Snow glove image.',
+    github:'https://github.com/paruljamwal/snow_globe',
+    demo:'https://famous-mousse-3232bc.netlify.app/'
   }
  
 ]
