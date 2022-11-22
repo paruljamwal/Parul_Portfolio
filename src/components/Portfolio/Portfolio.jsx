@@ -48,8 +48,8 @@ var data=[
     id:6,
     image:IMG3,
     title:'Ecommerce web. provides clothes and Major know for Footwear.',
-    github:'https://github.com/paruljamwal/Zappos.git',
-    demo:'https://zappos-ddofkinha-paruljamwal.vercel.app'
+    github:'https://github.com/paruljamwal/Zappo_Tappo_Website_USA.git',
+    demo:'https://cozy-mandazi-5494a7.netlify.app/'
   }
   ,
   {
