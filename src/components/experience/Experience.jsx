@@ -15,8 +15,8 @@ import css from '../../assets/icons/css3.svg'
 function Experience() {
   return (
     <section id="experience">
-      <h5>What Skills I have</h5>
-      <h2>My Experience</h2>
+      <h2>What Skills I have</h2>
+  
 
       <div className="container experience__container">
         <div className="experience__content">

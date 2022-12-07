@@ -12,7 +12,7 @@ var data=[
     image:final1,
     title:'Everhour is a time tracker website that helps small and mid-size companies  to  organize their working hours.',
     github:'https://github.com/paruljamwal/viable-argument-168.git',
-    demo:'https://ever-lmnstkh00-paruljamwal.vercel.app'
+    demo:'https://idyllic-semifreddo-852580.netlify.app'
   },
 
   {
