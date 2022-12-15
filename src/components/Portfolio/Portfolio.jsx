@@ -42,15 +42,7 @@ var data=[
     github:'https://github.com/paruljamwal/Fressely.git',
     demo:'https://sid283.github.io/Ecommerce_freshly_clone/landing_page/homepage.html'
   },
-  {
-    id:6,
-    image:IMG3,
-    name:"Zappos",
-    title:'Ecommerce web. provides clothes and Major know for Footwear. At Zappos.com, our purpose is simple: to live and deliver WOW and best service, experience.',
-    github:'https://github.com/paruljamwal/Zappo_Tappo_Website_USA.git',
-    demo:'https://cozy-mandazi-5494a7.netlify.app/'
-  }
-  ,
+  
   {
     id:7,
     image:IMG5,
@@ -65,8 +57,16 @@ var data=[
     name:"LifestyleStores",
     title:'LifestyleStores is a retail Fashion Brand. Which has all clothing in varies categories and has a wide range of fashion products',
     github:'https://github.com/paruljamwal/LifeStyleStores.git',
-    demo:'https://lifestyle-final-main.vercel.app/'
+    demo:'https://sensational-panda-80ff96.netlify.app'
+  },{
+    id:6,
+    image:IMG3,
+    name:"Zappos",
+    title:'Ecommerce web. provides clothes and Major know for Footwear. At Zappos.com, our purpose is simple: to live and deliver WOW and best service, experience.',
+    github:'https://github.com/paruljamwal/Zappo_Tappo_Website_USA.git',
+    demo:'https://cozy-mandazi-5494a7.netlify.app/'
   }
+  
  
 ]
 
