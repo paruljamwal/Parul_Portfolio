@@ -4,7 +4,6 @@ import { CTA } from "./CTA";
 import ME from '../../assets/p11.png'
 import { HeaderSocial } from "./HeaderSocial";
 import "./typer.css"
-import { Typewriter, useTypewriter, Cursor } from 'react-simple-typewriter'
 function Header() {
 
   return (
@@ -12,7 +11,7 @@ function Header() {
       <div className="container header__container ">
       <h4>Hello 👋🏻 I'm</h4>
         <h1>Parul Jamwal</h1>
-        <h3>Fullstack Web Developer</h3>
+        <h3>Software Development Engineer</h3>
         <CTA></CTA>
       <HeaderSocial></HeaderSocial>
         <div className="me">

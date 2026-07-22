@@ -82,15 +82,15 @@ export const Portfolio = () => {
            return (
             <article key={id} className="portfolio__item">
             <div className="Portfolio__item-image">
-              <img src={image} alt="image" />
+              <img src={image} alt={name} />
             </div>
             <h2 style={{textAlign:"center"}} >{name}</h2>
             <h3>{title}</h3>
             <div className="portfolio__item-cta">
-            <a href={github} className="btn github" target="_blank">
+            <a href={github} className="btn github" target="_blank" rel="noreferrer">
               Github
             </a>
-            <a href={demo} className="btn btn-primary github" target="_blank">
+            <a href={demo} className="btn btn-primary github" target="_blank" rel="noreferrer">
               Live Demo
             </a>
             </div>

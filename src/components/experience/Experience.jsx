@@ -1,16 +1,13 @@
 import "./experience.css";
-import { BsPatchCheckFill } from "react-icons/bs";
 import redux from '../../assets/icons/redux.svg'
 import react from '../../assets/icons/reactjs.svg'
 import javascript from '../../assets/icons/javascript.svg'
 import nodejs from '../../assets/icons/nodejs.svg'
-import Aws from '../../assets/icons/amazon-web-services.svg'
 import git from '../../assets/icons/github-icon.svg'
 import Html from '../../assets/icons/html-5.svg'
 import express from '../../assets/icons/expressjs-icon.svg'
 import mongo from '../../assets/icons/mongodb.svg'
 import mui from '../../assets/icons/material-ui.svg'
-import figma from '../../assets/icons/figma-icon.svg'
 import css from '../../assets/icons/css3.svg'
 function Experience() {
   return (

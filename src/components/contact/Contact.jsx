@@ -1,7 +1,5 @@
 import "./contact.css";
 import {MdOutlineMarkEmailUnread} from "react-icons/md"
-import {SiMessenger} from "react-icons/si"
-import {SiWhatsapp} from "react-icons/si"
 import {useRef} from "react";
 import emailjs from 'emailjs-com'
 export const Contact = () => {
@@ -33,7 +31,7 @@ export const Contact = () => {
     <article className="contact__option" >
     <MdOutlineMarkEmailUnread className="contact__options-icon"></MdOutlineMarkEmailUnread>
      <h4>Email</h4>
-     <a href="mailto:paruljamwal46@gmail.com" target="_blank">Send a message</a>
+     <a href="mailto:paruljamwal46@gmail.com" target="_blank" rel="noreferrer">Send a message</a>
     </article>
 
 

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3549e63e.css",
-    "main.js": "/static/js/main.755d8fc1.js",
+    "main.js": "/static/js/main.e95957ce.js",
     "static/media/final.png": "/static/media/final.168d4d5eddec26390de7.png",
     "static/media/final1.png": "/static/media/final1.0af7c76344344c2017b3.png",
     "static/media/p9.png": "/static/media/p9.40468b464e4abcd487ff.png",
@@ -13,7 +13,6 @@
     "static/media/Zappos.jpg": "/static/media/Zappos.658b4afce79f83f42eec.jpg",
     "static/media/reactjs.svg": "/static/media/reactjs.e7574af26628c8d8cc52d64e015eb898.svg",
     "static/media/github-icon.svg": "/static/media/github-icon.a2eafb2af9a1dcc15adc5435778e9625.svg",
-    "static/media/amazon-web-services.svg": "/static/media/amazon-web-services.482ae98bd199aa096dfaa67074122abb.svg",
     "static/media/nodejs.svg": "/static/media/nodejs.cccdafa931eebdaea49f5c5ac3ba232f.svg",
     "static/media/redux.svg": "/static/media/redux.0a4a6ca2be44339bedb69de15f66d243.svg",
     "static/media/mongodb.svg": "/static/media/mongodb.3beac5ba18197ccbdea6e2f53e18edcf.svg",
@@ -21,14 +20,13 @@
     "static/media/javascript.svg": "/static/media/javascript.081325c6f229605dce15142ddd948d6d.svg",
     "index.html": "/index.html",
     "static/media/material-ui.svg": "/static/media/material-ui.60a0ece058ff0f20c1815cf138a56e35.svg",
-    "static/media/figma-icon.svg": "/static/media/figma-icon.25abb591c3b89b3fa15743b91482f4a6.svg",
     "static/media/css3.svg": "/static/media/css3.3ec320225ef851ed26cf9fd1c6ebaa54.svg",
     "static/media/html-5.svg": "/static/media/html-5.c1bb84e022ca9d76984d4b943bd678fd.svg",
     "main.3549e63e.css.map": "/static/css/main.3549e63e.css.map",
-    "main.755d8fc1.js.map": "/static/js/main.755d8fc1.js.map"
+    "main.e95957ce.js.map": "/static/js/main.e95957ce.js.map"
   },
   "entrypoints": [
     "static/css/main.3549e63e.css",
-    "static/js/main.755d8fc1.js"
+    "static/js/main.e95957ce.js"
   ]
 }
