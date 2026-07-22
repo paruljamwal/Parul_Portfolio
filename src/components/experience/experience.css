@@ -49,3 +49,32 @@
     cursor: default;
 
 }
+
+.experience__work {
+  background: #34222e;
+  padding: 2.4rem;
+  border-radius: 2rem;
+  border: 1px solid #f9bf8f;
+  cursor: default;
+}
+
+.experience__work-header h3 {
+  margin-bottom: 0.35rem;
+}
+
+.experience__work-header h4 {
+  color: var(--color-primary);
+  margin-bottom: 0.35rem;
+}
+
+.experience__work-list {
+  margin-top: 1.5rem;
+  display: grid;
+  gap: 0.9rem;
+  padding-left: 1.2rem;
+}
+
+.experience__work-list li {
+  color: var(--color-light);
+  line-height: 1.6;
+}

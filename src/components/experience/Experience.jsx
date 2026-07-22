@@ -1,80 +1,39 @@
 import "./experience.css";
-import redux from '../../assets/icons/redux.svg'
-import react from '../../assets/icons/reactjs.svg'
-import javascript from '../../assets/icons/javascript.svg'
-import nodejs from '../../assets/icons/nodejs.svg'
-import git from '../../assets/icons/github-icon.svg'
-import Html from '../../assets/icons/html-5.svg'
-import express from '../../assets/icons/expressjs-icon.svg'
-import mongo from '../../assets/icons/mongodb.svg'
-import mui from '../../assets/icons/material-ui.svg'
-import css from '../../assets/icons/css3.svg'
+
 function Experience() {
   return (
     <section id="experience">
-      <h2>What Skills I have</h2>
-  
-
+      <h5>Where I've Worked</h5>
+      <h2>Experience</h2>
       <div className="container experience__container">
-        <div className="experience__content">
-          <article className="experience__details">
-            <img src={redux} alt="" />
-            <h4>REDUX</h4>
-          </article>
-         
-          <article className="experience__details">
-            <img src={react} alt="" />
-            <h4>REACT</h4>
-          </article>
-          <article className="experience__details">
-         <img src={javascript} alt="" />
-            <h4>JAVASCRIPT</h4>
-          </article>
-         
-          <article className="experience__details">
-           <img src={mongo} alt="" />
-            <h4>MONGO DB</h4>
-          </article>
- 
-          <article className="experience__details">
-           <img src={express} alt="" />
-            <h4>EXPRESS</h4>
-          </article>
-           
-          {/* <article className="experience__details">
-        <img src={Aws} alt="" />
-            <h4>AWS</h4>
-          </article> */}
-
-          <article className="experience__details">
-        <img src={git} alt="" />
-            <h4>GITHUB</h4>
-          </article>
-
-          <article className="experience__details">
-            <img src={Html} alt="" />
-            <h4>HTML</h4>
-          </article>
-
-          <article className="experience__details">
-           <img src={nodejs} alt="" />
-            <h4>NODE JS</h4>
-          </article>
-           
-          {/* <article className="experience__details">
-           <img src={figma} alt="" />
-            <h4>FIGMA</h4>
-          </article> */}
-
-          <article className="experience__details">
-           <img src={mui} alt="" />
-            <h4>MATERIAL UI</h4>
-          </article>
-
-          <article className="experience__details">
-           <img src={css} alt="" />
-            <h4>CSS</h4>
-          </article>
+        <div className="experience__work">
+          <div className="experience__work-header">
+            <h3>Software Development Engineer (Frontend)</h3>
+            <h4>Omniful Technologies</h4>
+            <small className="text-light">Jan 2023 – Present</small>
+          </div>
+          <ul className="experience__work-list">
+            <li>
+              Owned frontend for WMS, OMS, and TMS modules used by 100+
+              enterprise tenants processing 52K+ orders/day.
+            </li>
+            <li>
+              Cut page load times by ~40% via React Query caching, route-level
+              code splitting, lazy loading, and memoized list rendering.
+            </li>
+            <li>
+              Architected a reusable React component library and shared hooks,
+              cutting duplicate UI work by ~40% across WMS/OMS/TMS.
+            </li>
+            <li>
+              Engineered real-time order/inventory tracking with Pusher and Beam
+              notifications, enabling faster order fulfillment.
+            </li>
+            <li>
+              Built route- and action-level RBAC with CASL and delivered OMS
+              cancellation/return flows with REST API integrations.
+            </li>
+          </ul>
         </div>
       </div>
     </section>

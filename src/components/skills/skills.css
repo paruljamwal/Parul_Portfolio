@@ -1,0 +1,30 @@
+.skills__content {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+}
+
+.skills__details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1rem;
+  border-radius: 2rem;
+  border: 1px solid #f9bf8f;
+  padding: 1rem 0.5rem;
+  background: #34222e;
+  min-height: 110px;
+  text-align: center;
+}
+
+.skills__details h4 {
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+}
+
+.skills__details img {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+}
