@@ -1,6 +1,7 @@
 import "./portfolio.css";
 import final from "../../assets/final.png";
 import final1 from "../../assets/final1.png";
+import omsLiveOrders from "../../assets/oms-live-orders.png";
 
 const data = [
   {
@@ -14,6 +15,7 @@ const data = [
   {
     id: 2,
     kind: "case",
+    image: omsLiveOrders,
     name: "Order Management System (OMS)",
     title:
       "Reusable cancellation and return flows with CASL route- and action-level RBAC so multi-tenant roles only access permitted order actions on a platform processing 52K+ orders/day.",
@@ -57,7 +59,7 @@ export const Portfolio = () => {
       <div className="container portfolio__container">
         {data.map((item) => (
           <article key={item.id} className="portfolio__item">
-            {item.kind === "clone" && (
+            {item.image && (
               <div className="Portfolio__item-image">
                 <img src={item.image} alt={item.name} />
               </div>
