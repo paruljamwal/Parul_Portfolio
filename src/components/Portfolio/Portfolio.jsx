@@ -1,7 +1,7 @@
 import "./portfolio.css";
 import final from "../../assets/final.png";
 import final1 from "../../assets/final1.png";
-import omsLiveOrders from "../../assets/oms-live-orders.png";
+import omsLiveOrders from "../../assets/oms-live-orders.jpg";
 
 const data = [
   {
