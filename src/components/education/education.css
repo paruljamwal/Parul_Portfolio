@@ -1,0 +1,21 @@
+.education__container {
+  display: grid;
+  gap: 1.5rem;
+  max-width: 800px;
+}
+
+.education__item {
+  background: #34222e;
+  border: 1px solid #f9bf8f;
+  border-radius: 1.5rem;
+  padding: 1.5rem 2rem;
+}
+
+.education__item h3 {
+  margin-bottom: 0.35rem;
+}
+
+.education__item h4 {
+  color: var(--color-primary);
+  margin-bottom: 0.35rem;
+}
