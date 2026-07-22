@@ -2,6 +2,7 @@ import "./portfolio.css";
 import final from "../../assets/final.png";
 import final1 from "../../assets/final1.png";
 import omsLiveOrders from "../../assets/oms-live-orders.jpg";
+import tmsAllShipments from "../../assets/tms-all-shipments.jpg";
 
 const data = [
   {
@@ -24,6 +25,7 @@ const data = [
   {
     id: 3,
     kind: "case",
+    image: tmsAllShipments,
     name: "Transport Management System (TMS)",
     title:
       "Real-time order and inventory tracking with Pusher (sub-100ms latency) and Beam notifications, enabling faster order fulfillment for logistics operators.",
