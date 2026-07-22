@@ -3,11 +3,13 @@ import final from "../../assets/final.png";
 import final1 from "../../assets/final1.png";
 import omsLiveOrders from "../../assets/oms-live-orders.jpg";
 import tmsAllShipments from "../../assets/tms-all-shipments.jpg";
+import wmsTotalInventory from "../../assets/wms-total-inventory.jpg";
 
 const data = [
   {
     id: 1,
     kind: "case",
+    image: wmsTotalInventory,
     name: "Warehouse Management System (WMS)",
     title:
       "Responsive inventory and shipping workflows for warehouse operators across 100+ tenants — contributing to a 12% increase in warehouse utilization. Optimized table-heavy pick/pack/ship UIs with code splitting, lazy loading, and memoized rendering.",
